@@ -52,7 +52,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/VIDAKHOSHPEY22">
         <img src="https://github.com/VIDAKHOSHPEY22.png" width="150px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="ویدا خوش پی"/><br />
-        <sub><b>ویدا خوشپی</b></sub>
+        <sub><b>ویدا خوش پی</b></sub>
       </a>
     </td>
   </tr>
