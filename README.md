@@ -304,4 +304,4 @@ For full license text, see the [LICENSE](LICENSE) file.
 ---
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![© 2025 Team Shahin](https://img.shields.io/badge/©_2026-Team_Shahin-red)](mailto:team.shahin@example.com)
+[![© 2025 Team Shahin](https://img.shields.io/badge/©_2026-Team_Shahin-red)](mailto:vviiddaa2@gmail.com)
