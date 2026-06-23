@@ -283,6 +283,23 @@ Team Shahin represents the beginning of a sustained commitment to advancing cybe
 
 <br>
 
-<div align="center">
-  <sub>© 2026 Team Shahin. All rights reserved.</sub>
-</div>
+## 📄 License
+
+```Copyright (c) 2026 Team Shahin
+Licensed under the Apache License, Version 2.0
+```
+
+This repository is open-source under the **Apache License 2.0**.
+
+| ✅ You CAN | 📝 You MUST | ❌ You CANNOT |
+|------------|-------------|---------------|
+| Use commercially | Give credit to Team Shahin | Use "Team Shahin" for endorsement |
+| Modify & distribute | Include the license notice | Remove copyright notices |
+| Use in proprietary projects | State any changes made | Claim ownership of original work |
+
+For full license text, see the [LICENSE](LICENSE) file.
+
+---
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![© 2025 Team Shahin](https://img.shields.io/badge/©_2026-Team_Shahin-red)](mailto:vviiddaa2@gmail.com)
