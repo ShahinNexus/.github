@@ -1,6 +1,6 @@
 # 🦅 Team Shahin – Cybersecurity League
 
-![Team Banner](./banner/shahin.jpg)
+![Team Banner](https://github.com/ShahinNexus/.github/blob/753ed85446eee3d1deb5fee97a59c01b6aab5619/banner/shahin.jpg)
 
 > *"Precision. Speed. Depth."*
 
