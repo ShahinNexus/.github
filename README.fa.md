@@ -221,7 +221,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/VIDAKHOSHPEY22">
         <img src="https://github.com/VIDAKHOSHPEY22.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
-        <strong>ویدا خوشپی</strong><br />
+        <strong>ویدا خوش پی</strong><br />
         <sub>
           <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="16px" alt="گیت‌هاب">
           گیت‌هاب
