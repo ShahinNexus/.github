@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShahinNexus/.github/blob/753ed85446eee3d1deb5fee97a59c01b6aab5619/banner/shahin.jpg" alt="Team Shahin Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ShahinNexus/.github/main/banner/shahin-2026-ctf.JPG" alt="Team Shahin Banner" width="100%">
 </p>
 
 <h1 align="center">
@@ -43,23 +43,44 @@ We transcend the conventional competition team paradigm, operating as a cohesive
 
 <table align="center" border="0">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/amirali-cheraghi-cyber">
-        <img src="https://github.com/amirali-cheraghi-cyber.png" width="150px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="AmirAli Cheraghi"/><br />
+        <img src="https://github.com/amirali-cheraghi-cyber.png" width="140px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="AmirAli Cheraghi"/><br />
         <sub><b>AmirAli Cheraghi</b></sub>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/VIDAKHOSHPEY22">
-        <img src="https://github.com/VIDAKHOSHPEY22.png" width="150px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="Vida Khoshpey"/><br />
+        <img src="https://github.com/VIDAKHOSHPEY22.png" width="140px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="Vida Khoshpey"/><br />
         <sub><b>Vida Khoshpey</b></sub>
       </a>
     </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/YALDAKHOSHPEY">
+        <img src="https://github.com/YALDAKHOSHPEY.png" width="140px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="YALDAKHOSHPEY"/><br />
+        <sub><b>YALDAKHOSHPEY</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/kumarswamyg2005">
+        <img src="https://github.com/kumarswamyg2005.png" width="140px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="kumarswamyg2005"/><br />
+        <sub><b>kumarswamyg2005</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/learnerxuan">
+        <img src="https://github.com/learnerxuan.png" width="140px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="learnerxuan"/><br />
+        <sub><b>learnerxuan</b></sub>
+      </a>
+    </td>
+    <td width="33%"></td>
   </tr>
 </table>
 
 <p align="center">
-  <em>Two minds, one mission — making the digital world more secure.</em>
+  <em>Five minds, one mission — making the digital world more secure.</em>
 </p>
 
 ---
@@ -226,24 +247,39 @@ Team Shahin represents the beginning of a sustained commitment to advancing cybe
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="20%">
       <a href="https://github.com/amirali-cheraghi-cyber">
         <img src="https://github.com/amirali-cheraghi-cyber.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
         <strong>AmirAli Cheraghi</strong><br />
-        <sub>
-          <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="16px" alt="GitHub">
-          GitHub Profile
-        </sub>
+        <sub>GitHub Profile</sub>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="20%">
       <a href="https://github.com/VIDAKHOSHPEY22">
         <img src="https://github.com/VIDAKHOSHPEY22.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
         <strong>Vida Khoshpey</strong><br />
-        <sub>
-          <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="16px" alt="GitHub">
-          GitHub Profile
-        </sub>
+        <sub>GitHub Profile</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/YALDAKHOSHPEY">
+        <img src="https://github.com/YALDAKHOSHPEY.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
+        <strong>YALDAKHOSHPEY</strong><br />
+        <sub>GitHub Profile</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/kumarswamyg2005">
+        <img src="https://github.com/kumarswamyg2005.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
+        <strong>kumarswamyg2005</strong><br />
+        <sub>GitHub Profile</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/learnerxuan">
+        <img src="https://github.com/learnerxuan.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
+        <strong>learnerxuan</strong><br />
+        <sub>GitHub Profile</sub>
       </a>
     </td>
   </tr>
@@ -287,21 +323,22 @@ Team Shahin represents the beginning of a sustained commitment to advancing cybe
 
 ## 📄 License
 
-```Copyright (c) 2026 Team Shahin
+```text
+Copyright (c) 2026 Team Shahin
 Licensed under the Apache License, Version 2.0
 ```
 
 This repository is open-source under the **Apache License 2.0**.
 
-| ✅ You CAN | 📝 You MUST | ❌ You CANNOT |
-|------------|-------------|---------------|
-| Use commercially | Give credit to Team Shahin | Use "Team Shahin" for endorsement |
-| Modify & distribute | Include the license notice | Remove copyright notices |
-| Use in proprietary projects | State any changes made | Claim ownership of original work |
+| ✅ You CAN                   | 📝 You MUST                | ❌ You CANNOT                      |
+| --------------------------- | -------------------------- | --------------------------------- |
+| Use commercially            | Give credit to Team Shahin | Use "Team Shahin" for endorsement |
+| Modify & distribute         | Include the license notice | Remove copyright notices          |
+| Use in proprietary projects | State any changes made     | Claim ownership of original work  |
 
 For full license text, see the [LICENSE](LICENSE) file.
 
 ---
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![© 2025 Team Shahin](https://img.shields.io/badge/©_2026-Team_Shahin-red)](mailto:vviiddaa2@gmail.com)
+[![License: Apache 2.0](https://img.shields.io/badge/License_Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![© 2026 Team Shahin](https://img.shields.io/badge/©_2026-Team_Shahin-red)](mailto:vviiddaa2@gmail.com)
