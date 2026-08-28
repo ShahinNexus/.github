@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShahinNexus/.github/blob/753ed85446eee3d1deb5fee97a59c01b6aab5619/banner/shahin.jpg" alt="بنر تیم شاهین" width="100%">
+  <img src="https://raw.githubusercontent.com/ShahinNexus/.github/main/banner/shahin-2026-ctf.JPG" alt="بنر تیم شاهین" width="100%">
 </p>
 
 <h1 align="center">
@@ -43,23 +43,44 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/amirali-cheraghi-cyber">
-        <img src="https://github.com/amirali-cheraghi-cyber.png" width="150px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="امیرعلی چراغی"/><br />
+        <img src="https://github.com/amirali-cheraghi-cyber.png" width="140px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="امیرعلی چراغی"/><br />
         <sub><b>امیرعلی چراغی</b></sub>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/VIDAKHOSHPEY22">
-        <img src="https://github.com/VIDAKHOSHPEY22.png" width="150px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="ویدا خوش پی"/><br />
+        <img src="https://github.com/VIDAKHOSHPEY22.png" width="140px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="ویدا خوش پی"/><br />
         <sub><b>ویدا خوش پی</b></sub>
       </a>
     </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/YALDAKHOSHPEY">
+        <img src="https://github.com/YALDAKHOSHPEY.png" width="140px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="YALDAKHOSHPEY"/><br />
+        <sub><b>YALDAKHOSHPEY</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/kumarswamyg2005">
+        <img src="https://github.com/kumarswamyg2005.png" width="140px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="kumarswamyg2005"/><br />
+        <sub><b>kumarswamyg2005</b></sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/learnerxuan">
+        <img src="https://github.com/learnerxuan.png" width="140px;" style="border-radius: 50%; border: 3px solid #2E8B57;" alt="learnerxuan"/><br />
+        <sub><b>learnerxuan</b></sub>
+      </a>
+    </td>
+    <td width="33%"></td>
   </tr>
 </table>
 
 <p align="center">
-  <em>دو تا مغز، یه هدف — امن‌تر کردن دنیای دیجیتال.</em>
+  <em>پنج ذهن، یه هدف — امن‌تر کردن دنیای دیجیتال.</em>
 </p>
 
 ---
@@ -72,11 +93,11 @@
   <tr>
     <td width="50%">
       <h3>🔍 مهندسی معکوس</h3>
-      <p>بررسی و تحلیل فایل‌های اجرایی، فهمیدن رفتار بدافزارها و رمزگشایی از پروتکل‌های اختصاصی با آنالیز کد و دینامیک‌سازی.</p>
+      <p>بررسی و تحلیل فایل‌های اجرایی، فهمیدن رفتار بدافزارها و تحلیل پروتکل‌های اختصاصی با آنالیز کد و ابزارهای دینامیک.</p>
     </td>
     <td width="50%">
       <h3>🔐 رمزنگاری</h3>
-      <p>شکستن الگوریتم‌های رمزنگاری، تحلیل روش‌های رمزگذاری و طراحی پروتکل‌های امن با تمرکز روی آسیب‌پذیری‌های واقعی.</p>
+      <p>شکستن پیاده‌سازی‌های رمزنگاری، تحلیل الگوریتم‌های رمزگذاری و بررسی پروتکل‌های امن با تمرکز روی آسیب‌پذیری‌های واقعی.</p>
     </td>
   </tr>
   <tr>
@@ -92,7 +113,7 @@
   <tr>
     <td width="50%">
       <h3>💻 بهره‌برداری دودویی</h3>
-      <p>تحلیل آسیب‌پذیری‌های حافظه، ساخت زنجیره اکسپلویت و درک معماری‌های سطح پایین برای حملات پیشرفته.</p>
+      <p>تحلیل آسیب‌پذیری‌های حافظه، ساخت زنجیره اکسپلویت و درک معماری‌های سطح پایین برای عملیات پیشرفته امنیت تهاجمی.</p>
     </td>
     <td width="50%">
       <h3>⚙️ امنیت سخت‌افزار</h3>
@@ -208,24 +229,39 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="20%">
       <a href="https://github.com/amirali-cheraghi-cyber">
         <img src="https://github.com/amirali-cheraghi-cyber.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
         <strong>امیرعلی چراغی</strong><br />
-        <sub>
-          <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="16px" alt="گیت‌هاب">
-          گیت‌هاب
-        </sub>
+        <sub>گیت‌هاب</sub>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="20%">
       <a href="https://github.com/VIDAKHOSHPEY22">
         <img src="https://github.com/VIDAKHOSHPEY22.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
         <strong>ویدا خوش پی</strong><br />
-        <sub>
-          <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="16px" alt="گیت‌هاب">
-          گیت‌هاب
-        </sub>
+        <sub>گیت‌هاب</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/YALDAKHOSHPEY">
+        <img src="https://github.com/YALDAKHOSHPEY.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
+        <strong>YALDAKHOSHPEY</strong><br />
+        <sub>گیت‌هاب</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/kumarswamyg2005">
+        <img src="https://github.com/kumarswamyg2005.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
+        <strong>kumarswamyg2005</strong><br />
+        <sub>گیت‌هاب</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/learnerxuan">
+        <img src="https://github.com/learnerxuan.png" width="80px;" style="border-radius: 50%; border: 2px solid #2E8B57;"/><br />
+        <strong>learnerxuan</strong><br />
+        <sub>گیت‌هاب</sub>
       </a>
     </td>
   </tr>
@@ -265,26 +301,26 @@
 
 <br>
 
-
+---
 
 ## 📄 مجوز
 
-```
+```text
 کپی‌رایت (c) ۲۰۲۶ تیم شاهین
 تحت مجوز Apache License, Version 2.0
 ```
 
 این مخزن تحت **مجوز Apache 2.0** به‌صورت متن‌باز منتشر شده است.
 
-| ✅ شما مجاز هستید | 📝 شما موظف هستید | ❌ شما مجاز نیستید |
-|-------------------|-------------------|-------------------|
-| استفاده تجاری | ذکر نام تیم شاهین | استفاده از نام "تیم شاهین" برای تأیید یا تبلیغ محصولات |
-| تغییر و توزیع | درج اطلاعیه مجوز | حذف اطلاعیه‌های کپی‌رایت |
-| استفاده در پروژه‌های اختصاصی | ذکر تغییرات اعمال‌شده | ادعای مالکیت اثر اصلی |
+| ✅ شما مجاز هستید             | 📝 شما موظف هستید     | ❌ شما مجاز نیستید                                      |
+| ---------------------------- | --------------------- | ------------------------------------------------------ |
+| استفاده تجاری                | ذکر نام تیم شاهین     | استفاده از نام "تیم شاهین" برای تأیید یا تبلیغ محصولات |
+| تغییر و توزیع                | درج اطلاعیه مجوز      | حذف اطلاعیه‌های کپی‌رایت                               |
+| استفاده در پروژه‌های اختصاصی | ذکر تغییرات اعمال‌شده | ادعای مالکیت اثر اصلی                                  |
 
 متن کامل مجوز در فایل [LICENSE](LICENSE) موجود است.
 
 ---
 
-[![مجوز: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![مجوز: Apache 2.0](https://img.shields.io/badge/License_Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![© ۲۰۲۶ تیم شاهین](https://img.shields.io/badge/©_۲۰۲۶-%D8%AA%DB%8C%D9%85_%D8%B4%D8%A7%D9%87%DB%8C%D9%86-red)](mailto:vviiddaa2@gmail.com)
